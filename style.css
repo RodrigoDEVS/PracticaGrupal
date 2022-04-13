@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .left {
+    width: 500px;
+    height: 800px;
+  }
+  
+  .right {
+    height: 800px;
+  }
+  .left1 {
+    float: left
+  }
+  
+  .right1 {
+    margin-left: 200px;
+  }
