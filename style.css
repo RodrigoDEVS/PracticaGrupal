@@ -73,17 +73,21 @@ h4{
 }
   
   .left {
-    width: 500px;
-    height: 800px;
+    width: 30%;
+    height: 100vh;
   }
   
   .right {
-    height: 900px;
+    height: 100vh;
   }
   .left1 {
     float: left
   }
   
   .right1 {
-    margin-left: 200px;
+    margin-left: 30%;
   }
+
+  img {
+    width: 100%
+}
