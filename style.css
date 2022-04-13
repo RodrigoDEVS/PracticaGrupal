@@ -84,5 +84,23 @@ footer .divFooter {
     position: relative;
     text-align: center;
     padding: 10px;
+
+  .left {
+    width: 30%;
+    height: 100vh;
+  }
   
+  .right {
+    height: 100vh;
+  }
+  .left1 {
+    float: left
+  }
+  
+  .right1 {
+    margin-left: 30%;
+  }
+
+  img {
+    width: 100%
 }
