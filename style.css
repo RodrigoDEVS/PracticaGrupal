@@ -86,3 +86,11 @@ footer .divFooter {
   img {
     width: 100%
 }
+
+main .left {
+  background-color:#ddd;
+  float:left;
+  height:500px;
+  padding:10px;
+  width:455px;
+}
