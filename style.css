@@ -71,9 +71,19 @@ h5{
 h4{
     font-size: 15px;
 }
-
-
-
-
-
-
+  
+  .left {
+    width: 500px;
+    height: 800px;
+  }
+  
+  .right {
+    height: 800px;
+  }
+  .left1 {
+    float: left
+  }
+  
+  .right1 {
+    margin-left: 200px;
+  }
