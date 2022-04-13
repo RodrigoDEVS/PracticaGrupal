@@ -1,0 +1,54 @@
+*{
+
+    margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Open Sans", Arial, Sans-serif;
+	font-size: 16px;
+}
+/* ----- ----- HEADER ----- ----- */
+.contenedor {
+	width: 100%;
+	max-width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header .contenedor {
+	position: relative;
+	height: 100%;
+}
+
+header .menu {
+	width: 100%;
+	text-align:left;
+}
+header .menu a {
+	color: rgb(244, 244, 244);
+	font-size: 16px;
+	font-weight: 300;
+	display: inline-block;
+	margin: 5px 2px;
+	text-decoration: none;
+	position: relative;
+}
+
+header .contenedor .divTres {
+    background-color: black;
+    width: 100%;
+    height: 25px;
+}
+
+header .contenedor .divUno{
+     background-color: yellow;
+}
+
+
+
+
+
