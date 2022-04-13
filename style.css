@@ -44,9 +44,34 @@ header .contenedor .divTres {
     height: 25px;
 }
 
-header .contenedor .divUno{
+header .contenedor .divUno {
      background-color: yellow;
+     height: 50px;
+	position: relative;
+ text-align: center;
+ padding: 20px;
 }
+
+header .contenedor .divDos{
+    background-color: rgb(0, 233, 128);
+    height: 100px;
+    text-align: center;
+    padding: 25px;
+}
+
+
+h1{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 15px;
+}
+
+h4{
+    font-size: 15px;
+}
+
 
 
 
