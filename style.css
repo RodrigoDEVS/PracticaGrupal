@@ -60,24 +60,6 @@ header .contenedor .divDos {
   font-size: 16px;
 }
 
-
-
-.left {
-  width: 500px;
-  height: 800px;
-}
-
-.right {
-  height: 800px;
-}
-.left1 {
-  float: left;
-}
-
-.right1 {
-  margin-left: 200px;
-}
-
 footer .divFooter {
     background-color: rgb(109, 109, 109);
     height: 50px;
