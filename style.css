@@ -49,6 +49,7 @@ header .contenedor .divUno {
   position: relative;
   text-align: center;
   padding: 20px;
+  font-size: 16px;
 }
 
 header .contenedor .divDos {
@@ -56,19 +57,10 @@ header .contenedor .divDos {
   height: 100px;
   text-align: center;
   padding: 25px;
+  font-size: 16px;
 }
 
-h1 {
-  font-size: 20px;
-}
 
-h5 {
-  font-size: 15px;
-}
-
-h4 {
-  font-size: 15px;
-}
 
 .left {
   width: 500px;
@@ -86,13 +78,8 @@ h4 {
   margin-left: 200px;
 }
 
-footer {
-  background-color: rgb(109, 109, 109);
-  text-align: center;
-  height: 40px;
-}
-
 footer .divFooter {
+    background-color: rgb(109, 109, 109);
     height: 50px;
     position: relative;
     text-align: center;
